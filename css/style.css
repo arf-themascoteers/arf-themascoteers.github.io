@@ -10,6 +10,10 @@ h2{
     font-weight: bold;
 }
 
+h2.contact{
+    text-shadow: 2px 2px #000;
+}
+
 h4{
     font-weight: normal;
 }
