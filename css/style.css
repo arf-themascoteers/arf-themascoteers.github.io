@@ -17,3 +17,7 @@ h2.contact{
 h4{
     font-weight: normal;
 }
+
+a{
+    text-decoration: underline;
+}
